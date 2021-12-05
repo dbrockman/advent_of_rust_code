@@ -12,6 +12,6 @@ name = "aoc"
 path = "src/lib.rs"
 
 [dependencies]
-itertools = "0.10.0"
-serde = { version = "1.0.118", features = ["derive"] }
+itertools = "0.10.1"
+serde = { version = "1.0.130", features = ["derive"] }
 serde_scan = "0.4.1"
